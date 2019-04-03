@@ -1,0 +1,23 @@
+﻿  Source.cpp
+d:\фото и видео раб. стол\лабы\laba_sort1\laba_sort1\source.cpp(139): warning C4267: аргумент: преобразование из "size_t" в "const _Elem"; возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+d:\фото и видео раб. стол\лабы\laba_sort1\laba_sort1\source.cpp(157): warning C4267: аргумент: преобразование из "size_t" в "const _Elem"; возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+d:\фото и видео раб. стол\лабы\laba_sort1\laba_sort1\source.cpp(173): warning C4267: аргумент: преобразование из "size_t" в "const _Elem"; возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+d:\фото и видео раб. стол\лабы\laba_sort1\laba_sort1\source.cpp(191): warning C4267: аргумент: преобразование из "size_t" в "const _Elem"; возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+d:\фото и видео раб. стол\лабы\laba_sort1\laba_sort1\source.cpp(208): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  laba_sort1.vcxproj -> D:\Фото и видео раб. стол\ЛАБЫ\laba_sort1\Debug\laba_sort1.exe
